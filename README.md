@@ -25,12 +25,15 @@ The dashboard helps analyze customer churn patterns and provides an interactive 
 ## Key Components
 
 ### KPIs
+
 Key performance indicators provide a quick overview of important customer and churn metrics.
 
 ### Visualizations
+
 Charts help identify patterns and trends related to customer churn.
 
 ### Slicers
+
 Interactive slicers allow users to filter the dashboard and analyze specific customer segments.
 
 ## Data Preparation
@@ -39,11 +42,11 @@ The dataset was prepared and analyzed using Power BI before creating the dashboa
 
 ## Project Structure
 
-
+```text
 customer-churn-analysis-powerbi/
-│
 ├── Customer Churn Analysis.pbix
-└── README.md
-│
+├── README.md
+└── dashboard.png
 ├── Customer Churn Analysis.pbix
-└── README.md
+├── README.md
+└── dashboard.png
